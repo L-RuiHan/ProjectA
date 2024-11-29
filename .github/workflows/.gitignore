@@ -1,0 +1,21 @@
+# macOS 系统文件
+.DS_Store
+.Trash/
+.zsh_history
+.zsh_sessions/
+
+# 隐藏文件
+.*.json
+.*.txt
+.bash_profile
+.profile
+
+# 常见目录
+Desktop/
+Documents/
+Downloads/
+Music/
+Movies/
+Pictures/
+Library/
+
